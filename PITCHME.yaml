@@ -4,4 +4,5 @@ background : assets/md/assets/bg-kp3b-iloveimg-compressed.png
 logo : assets/img/logo-banten.png
 highlight : mono-blue
 footnote : "<a href='#/2'>Presentation Forum Data</a>"
+custom-size-config : auto
 published : true
