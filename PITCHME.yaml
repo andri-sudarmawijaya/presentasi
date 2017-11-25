@@ -1,6 +1,6 @@
 theme : night
 theme-override : assets\bootstrap\3.3.6\css/bootstrap.min.css
 background : assets/md/assets/bg-kp3b-iloveimg-compressed.png
-logo : assets/images/logo.png
+logo : assets/img/preload-75.gif
 transition : none
 published : true
