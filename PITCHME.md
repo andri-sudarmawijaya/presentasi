@@ -11,7 +11,7 @@
 
 @title[Pendahuluan]
 
-## Teknologi Big Data<span class="gold"></span>
+#### Teknologi Big Data<span class="gold"></span>
 Banyak pihak yang mencoba memberikan definisi terhadap Big Data (Chandarana et al., 2014; Gartner, 2013; Dumbill, 2012). Semuanya mengacu  pada 3V: Volume, Variety, Velocity, dan ada yang menambahkan unsur Veracity dan Value.
 <br>
 <br>
