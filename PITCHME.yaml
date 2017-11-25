@@ -1,6 +1,1 @@
-theme : sky
-theme-override : assets/css/PITCHME.css
-background : ./assets/md/assets/bg-kp3b-iloveimg-compressed.png
-logo : assets/images/logo.png
-transition : none
-published : true
+background : assets/md/assets/bg-kp3b-iloveimg-compressed.png
