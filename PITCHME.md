@@ -1,26 +1,6 @@
-% Menggunakan Markdown
-% Endy Muhardin <endy.muhardin@gmail.com>
-% 6 September 2012
+# Forum Data<span class="gold"></span>
 
-# Apa itu Markdown #
-
-- Cara penulisan dokumen
-- Berbasis teks
-- Tidak membutuhkan aplikasi khusus
-- Bisa diedit dengan Notepad
-
-# Apa itu Pandoc #
-
-- Aplikasi untuk mengolah Markdown
-  menjadi format lain
-- Dibuat oleh profesor filosofi
-  bernama John MacFarlane
-  
-# Apa fitur Pandoc #
-
-- Konversi menjadi PDF
-- Konversi menjadi HTML
-- Konversi menjadi OpenOffice
-- Konversi menjadi MS Office
-
-# Terima kasih #
+#### Konsep dan Penerapan Big Data di Pemerintah Provinsi Banten
+<br>
+<br>
+<span class="byline">[ GitHub, GitLab, Bitbucket, GitBucket, Gitea, Gogs ]</span>
