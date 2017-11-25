@@ -9,6 +9,7 @@
 ![Press Down Key](assets/down-arrow.png)
 
 +++
+@title[Analisis data]
 ##### Pengolahan dan analisis data dalam jumlah sangat besar ini memerlukan waktu yang relatif jauh lebih singkat dengan menggunakan Big Data dibanding teknologi data sebelumnya, misalnya. database relational seperti MySQL
 
 +++
