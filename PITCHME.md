@@ -7,7 +7,7 @@
 <br>
 <span class="byline">[ GitHub, GitLab, Bitbucket, GitBucket, Gitea, Gogs ]</span>
 ---
-<!-- .slide: data-background-image="assets/md/assets/wallpaper.jpg" data-background-size="100% 100%" -->
+<!-- .slide image="assets/md/assets/bg-kp3b-iloveimg-compressed.png" data-background-size="100% 100%" -->
 
 @title[Pendahuluan]
 
