@@ -11,8 +11,9 @@
 
 @title[Pendahuluan]
 
-#### Teknologi Big Data<span class="gold"></span>
-###### Banyak pihak yang mencoba memberikan definisi terhadap Big Data (Chandarana et al., 2014; Gartner, 2013; Dumbill, 2012). Semuanya mengacu  pada 3V: Volume, Variety, Velocity, dan ada yang menambahkan unsur Veracity dan Value.
+## Pendahuluan
+### Sejarah tentang Big data #
+Awal mulanya th. 1970-2000 data yang di bangun merupakan data dengan jenis terstruktur serta adalah relational database seperti MySQL, oracle, dan sebagainya. Pada 2010 sampai saat ini di bangun satu sistem yang mempunyai maksud 3V (volume, velocity, varity) atau 4V (ditambah value), serta dengan berbagai teknologinya seperti map reduce, high performance computers cluster dan sebagainya.
 <br>
 <br>
 <span class="byline">[ GitHub, GitLab, Bitbucket, GitBucket, Gitea, Gogs ]</span>
