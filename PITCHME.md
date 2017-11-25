@@ -13,7 +13,7 @@
 ## Pendahuluan
 ### Sejarah tentang Big data #
 <br>
-Awal mulanya th. 1970-2000 data yang di bangun merupakan data dengan jenis terstruktur serta adalah relational database seperti MySQL, oracle, dan sebagainya. Pada 2010 sampai saat ini di bangun satu sistem yang mempunyai maksud 3V (volume, velocity, varity) atau 4V (ditambah value), serta dengan berbagai teknologinya seperti map reduce, high performance computers cluster dan sebagainya.
+GitPitch presentations are powered by the amazing [reveal.js](https://github.com/hakimel/reveal.js) presentation framework. But with GitPitch there is nothing to download. Nothing to install. All you need is your favorite text editor. And an account on GitHub, GitLab, or Bitbucket. Or your instance of GitHub Enterprise, GitLab CE, GitBucket, Gitea, or Gogs.
 <br>
 <br>
 <span class="byline">[ GitHub, GitLab, Bitbucket, GitBucket, Gitea, Gogs ]</span>
