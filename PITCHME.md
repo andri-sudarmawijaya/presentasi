@@ -1,4 +1,4 @@
-<!-- .slide: data-background-image="./assets/md/assets/wallpaper.jpg" data-background-size="100% 100%" -->
+<!-- .slide: data-background-image="./assets/md/assets/bg-kp3b-iloveimg-compressed.png" data-background-size="100% 100%" -->
 <span class="menu-title" style="display: none">Introduction</span>
 
 # Git<span class="gold">Pitch</span>
