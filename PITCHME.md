@@ -9,6 +9,8 @@
 ---
 <!-- .slide: data-background-image="assets/md/assets/wallpaper.jpg" data-background-size="100% 100%" -->
 
+@title[Pendahuluan]
+
 ## Big Data<span class="gold"></span>
 #### Konsep dan Penerapan Big Data di Pemerintah Provinsi Banten
 <br>
