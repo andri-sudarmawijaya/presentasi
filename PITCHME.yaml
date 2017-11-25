@@ -1,4 +1,4 @@
-theme : black
+theme : moon
 theme-override : assets/css/PITCHME.css
 background : assets/md/assets/bg-kp3b-iloveimg-compressed.png
 logo : assets/img/preloader-75.gif
