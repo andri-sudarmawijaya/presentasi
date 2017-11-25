@@ -11,8 +11,8 @@
 
 @title[Pendahuluan]
 
-## Big Data<span class="gold"></span>
-#### Konsep dan Penerapan Big Data di Pemerintah Provinsi Banten
+## Teknologi Big Data<span class="gold"></span>
+Banyak pihak yang mencoba memberikan definisi terhadap Big Data (Chandarana et al., 2014; Gartner, 2013; Dumbill, 2012). Semuanya mengacu  pada 3V: Volume, Variety, Velocity, dan ada yang menambahkan unsur Veracity dan Value.
 <br>
 <br>
 <span class="byline">[ GitHub, GitLab, Bitbucket, GitBucket, Gitea, Gogs ]</span>
