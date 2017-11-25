@@ -1,7 +1,5 @@
-
-# Forum Data
+@title[Cover]
 # Konsep dan Penerapan Big Data di Pemerintah Provinsi Banten
-
 ---
 
 ### Code-Blocks
