@@ -18,3 +18,7 @@
 <span class="byline">[ GitHub, GitLab, Bitbucket, GitBucket, Gitea, Gogs ]</span>
 ---
 <!-- .slide: data-background-image="assets/md/assets/wallpaper.jpg" data-background-size="100% 100%" -->
+
+---
+<!-- .slide: data-background-image="assets/md/assets/wallpaper.jpg" data-background-size="100% 100%" -->
+
