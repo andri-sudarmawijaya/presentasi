@@ -1,3 +1,4 @@
+theme : black
 theme-override : assets/bootstrap/3.3.6/css/bootstrap.min.css
 background : assets/md/assets/bg-kp3b-iloveimg-compressed.png
 logo : assets/img/preloader-75.gif
