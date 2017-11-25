@@ -4,13 +4,13 @@
 
 @title[Pendahuluan]
 ### Tentang Big Data
-##### Big Data adalah sebuah teknologi baru di dunia teknologi informasi dimana memungkinan proses pengolahan, penyimpanan dan analisis data dalam beragam bentuk/format, berjumlah besar dan pertambahan data yang sangat cepat.
+###### Big Data adalah sebuah teknologi baru di dunia teknologi informasi dimana memungkinan proses pengolahan, penyimpanan dan analisis data dalam beragam bentuk/format, berjumlah besar dan pertambahan data yang sangat cepat.
 
 ![Press Down Key](assets/down-arrow.png)
 
 +++
 @title[Analisis data]
-##### Pengolahan dan analisis data dalam jumlah sangat besar ini memerlukan waktu yang relatif jauh lebih singkat dengan menggunakan Big Data dibanding teknologi data sebelumnya, misalnya. database relational seperti MySQL
+###### Pengolahan dan analisis data dalam jumlah sangat besar ini memerlukan waktu yang relatif jauh lebih singkat dengan menggunakan Big Data dibanding teknologi data sebelumnya, misalnya. database relational seperti MySQL
 
 +++
 
