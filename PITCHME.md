@@ -9,7 +9,7 @@
 <span class="byline">[ GitHub, GitLab, Bitbucket, GitBucket, Gitea, Gogs ]</span>
 
 ---
-<!-- .slide: data-background-image="./assets/md/assets/wallpaper.jpg" data-background-size="100% 100%" -->
+<!-- .slide: data-background-image="./assets/md/assets/bg-kp3b-iloveimg-compressed.png" data-background-size="100% 100%" -->
 
 
 <span class="menu-title" style="display: none">PITCHME.md</span>
@@ -21,7 +21,7 @@
 <span class="aside">Just like this one...</span>
 
 ---
-<!-- .slide: data-background-image="./assets/md/assets/wallpaper.jpg" data-background-size="100% 100%" -->
+<!-- .slide: data-background-image="./assets/md/assets/bg-kp3b-iloveimg-compressed.png" data-background-size="100% 100%" -->
 
 
 #### No more <span class="gray">Keynote</span>.
@@ -53,7 +53,7 @@
 <span class="aside">It's as easy as README.md with simple slide-delimeters (---)</span>
 
 ---
-<!-- .slide: data-background-image="./assets/md/assets/wallpaper.jpg" data-background-size="100% 100%" -->
+<!-- .slide: data-background-image="./assets/md/assets/bg-kp3b-iloveimg-compressed.png" data-background-size="100% 100%" -->
 
 
 <span class="menu-title" style="display: none">Step 2. Git-Commit</span>
